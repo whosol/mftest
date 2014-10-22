@@ -7,7 +7,7 @@ using Microsoft.SPOT.Emulator;
 
 namespace mftest
 {
-    class Program : Emulator
+    public class Program : Emulator
     {
         public override void SetupComponent()
         {
